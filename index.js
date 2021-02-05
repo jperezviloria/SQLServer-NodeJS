@@ -40,7 +40,7 @@ app.get('/users', function (req, res) {
 
 
 
-// sql.ConnectionPool(dbConfig, function(err){
+
 //     if (err) console.log(err);
 
 //     var request = new sql.Request();
